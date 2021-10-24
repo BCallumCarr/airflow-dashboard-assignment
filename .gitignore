@@ -1,0 +1,11 @@
+# Ignore sample data
+*.csv
+
+# Ignore Jupyter files
+*.ipynb
+
+# Ignore assignment specs
+assignment.md
+
+# Sundry
+.DS_Store
